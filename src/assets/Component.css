@@ -1,0 +1,20 @@
+
+.topnav {
+    line-height: 50px;
+}
+
+.topnav h1 {
+    font-size: 50px;
+}
+
+.topnav h4 {
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+
+@media (max-width: 769px) {
+    .topnav h1 {
+      font-size: 25px;
+    }
+}

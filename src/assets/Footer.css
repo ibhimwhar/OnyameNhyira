@@ -1,0 +1,17 @@
+footer {
+    position: absolute;
+    bottom: 0;
+    background-color: var(--bgColor);
+    left: 0;
+    right: 0;
+    padding: 20px;
+    color: var(--toggleColor);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer i {
+    margin-left: 10px;
+}
